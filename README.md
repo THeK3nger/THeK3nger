@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Davide Aversa**, a Ph.D. in Computer Science and Artificial Intelligence. I have several interest in 🧮 _math_, 🎸 _music_, 🛰 _astronomy_, 🎲 _procedural generation_, 🗺 _mapmaking_, 📚 _books_, 🏛 _philosophy_ and 👾 _game development_. I talk about most of these topics in my [personl webpage][1]!
+I am **Davide Aversa**, a Ph.D. in Computer Science and Artificial Intelligence. I have several interest in 🧮 _math_, 🎸 _music_, 🛰 _astronomy_, 🎲 _procedural generation_, 🗺 _mapmaking_, 📚 _books_, 🏛 _philosophy_ and 👾 _game development_. I talk about most of these topics in my [personal webpage][1]!
 
 <!--
 **THeK3nger/THeK3nger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
